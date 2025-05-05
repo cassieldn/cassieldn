@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Cassandra
 
-<!--
-**cassieldn/cassieldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computing undergrad passionate about building digital tools that are *accessible, intuitive, and empowering*.  
+💡 I enjoy working on automation, UX design, and emerging tech — especially anything that helps people adopt new technologies with confidence.  
+🌍 My mission? Making innovation more human-centered and inclusive.
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools I Use
+- Languages: HTML · CSS · Bash · Python (learning!)  
+- Tools: Git & GitHub · Figma · Visual Studio Code · Adobe XD  
+- Interests: Automation · Digital Adoption · AI · Inclusive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects in Progress
+- 📦 University File Automation Tool  
+- 🛳️ UX Redesign for Port of Dover Queue System  
+- 📚 Smart Library Borrowing Algorithm
+
+## ✨ Fun Fact
+Outside of tech, I’m all about games, good design, and turning ideas into things that *actually help people*.
+
+Let’s build things that make a difference. 🚀
